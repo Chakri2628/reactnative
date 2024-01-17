@@ -31,6 +31,7 @@ const LeftNavigation = ({ navigation }) => {
     { label: 'Profile', value: 'Profile' },
     { label: 'Logout', value: 'Logout' },
     { label: 'Change Password', value: 'ChangePassword' },
+    
   ];
 
   return (
